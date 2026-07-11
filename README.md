@@ -1,2 +1,7 @@
-# Nyan-Cat-Progress-Bar-Port
-Port and adapt the Play Progress Bar for Spicetify's “Nyan Cat” from Spotify's Electron-based desktop client to the web version of Spotify, redesigning its styling and integration with the DOM to make it compatible with a Tampermonkey user script.
+# Nyan Cat Progress Bar Port
+
+A faithful port of Spicetify's **Nyan Cat** playback progress bar for Spotify Web.
+
+This project reimplements the original desktop customization by adapting its styling, assets, and DOM integration to Spotify Web, delivering the same visual experience as a standalone Tampermonkey userscript without requiring Spicetify or the Electron-based desktop client.
+
+![Preview](https://github.com/kitbodega/Nyan-Cat-Progress-Bar-Port/blob/main/gifnyan.gif)
