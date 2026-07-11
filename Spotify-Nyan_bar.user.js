@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Spotify nyancat progress bar Port userscript.
+// @icon         https://i.ibb.co/YF1nLPfK/2eca7229-ca6a-4ad6-8653-b80a6a0f8586.png
 // @namespace    https://github.com/kitbodega/Nyan-Cat-Progress-Bar-Port
 // @version      1.0.0
 // @description  Spotify Nyan Cat Progress Bar
